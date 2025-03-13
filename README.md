@@ -6,7 +6,7 @@
 
 1. **Клонируйте репозиторий**:
     ```bash
-    git clone https://github.com/Ilushe/Y_Calcsecond.git
+    git clone https://github.com/Ilyshe/Y_Calcsecond.git
     cd calc_go
     ```
 
