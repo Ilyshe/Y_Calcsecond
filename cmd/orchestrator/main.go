@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/Ilushe/Y_Calcsecond/internal/application"
+	"github.com/Ilyshe/Y_Calcsecond/internal/application"
 )
 
 func main() {
