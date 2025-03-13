@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Ilushe/Y_Calcsecond/pkg/calculation"
+	"github.com/Ilyshe/Y_Calcsecond/pkg/calculation"
 )
 
 type Agent struct {
